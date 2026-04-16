@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Bosyunn Itinerary',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'bosyunn-itinerary.vercel.app',
   author: 'Bosyunn',
 
   // open graph metadata (optional)
