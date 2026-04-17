@@ -5,8 +5,6 @@ import 'prismjs/themes/prism-coy.css'
 // core styles shared by all of react-notion-x (required)
 import 'react-notion-x/styles.css'
 
-import 'rc-dropdown/assets/index.css'
-import 'react-notion-x/build/third-party/collection.css'
 // global styles shared across the entire site
 import 'styles/global.css'
 // this might be better for dark mode
